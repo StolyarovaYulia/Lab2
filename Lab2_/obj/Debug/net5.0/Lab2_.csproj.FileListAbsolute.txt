@@ -1,0 +1,126 @@
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.csproj.AssemblyReference.cache
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.AssemblyInfoInputs.cache
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.AssemblyInfo.cs
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.csproj.CoreCompileInputs.cache
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.exe
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.deps.json
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.runtimeconfig.json
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.runtimeconfig.dev.json
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.pdb
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.csproj.CopyComplete
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\refint\Lab2_.dll
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.pdb
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.genruntimeconfig.cache
+C:\Users\Vadzim.Vayadzilau\source\repos\Lab2_\Lab2_\obj\Debug\net5.0\ref\Lab2_.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.exe
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.deps.json
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.runtimeconfig.json
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.runtimeconfig.dev.json
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Lab2_.pdb
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.csproj.AssemblyReference.cache
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.AssemblyInfoInputs.cache
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.AssemblyInfo.cs
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.csproj.CoreCompileInputs.cache
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.csproj.CopyComplete
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\refint\Lab2_.dll
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.pdb
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\Lab2_.genruntimeconfig.cache
+C:\Users\Name\OneDrive\Рабочий стол\3 курс 1 сем\РПБДИС\lab 2\Lab2_\Lab2_\obj\Debug\net5.0\ref\Lab2_.dll

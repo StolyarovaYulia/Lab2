@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Name\\OneDrive\\Рабочий стол\\3 курс 1 сем\\РПБДИС\\lab 2\\Lab2_\\Lab2_\\Lab2_.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Name\\OneDrive\\Рабочий стол\\3 курс 1 сем\\РПБДИС\\lab 2\\Lab2_\\Lab2_\\Lab2_.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Name\\OneDrive\\Рабочий стол\\3 курс 1 сем\\РПБДИС\\lab 2\\Lab2_\\Lab2_\\Lab2_.csproj",
+        "projectName": "Lab2_",
+        "projectPath": "C:\\Users\\Name\\OneDrive\\Рабочий стол\\3 курс 1 сем\\РПБДИС\\lab 2\\Lab2_\\Lab2_\\Lab2_.csproj",
+        "packagesPath": "C:\\Users\\Name\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Name\\OneDrive\\Рабочий стол\\3 курс 1 сем\\РПБДИС\\lab 2\\Lab2_\\Lab2_\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Name\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
